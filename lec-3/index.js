@@ -1,0 +1,15 @@
+const express = require('express'); // Import the express module default 
+
+// give path for own module and name for default export
+
+//console.log(express)
+
+
+module.exports = require('./lib/sum')
+
+
+//command to install dev dependencies
+// npm install --save-dev name
+
+//command to publish package
+//npm  publish --access=public

@@ -1,0 +1,17 @@
+{
+  "name": "@hello_bucks/sumpackage",
+  "version": "1.0.1",
+  "description": "hello world this pakage is a trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritesh Rana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "hbs": "^4.2.0"
+  }
+}
