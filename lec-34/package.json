@@ -1,5 +1,5 @@
 {
-  "name": "bdd-25",
+  "name": "lec-34",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0",
-    "redis": "^5.9.0",
-    "ws": "^8.18.3"
+    "bullmq": "^5.62.0",
+    "express": "^5.1.0"
   }
 }

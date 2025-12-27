@@ -1,5 +1,5 @@
 {
-  "name": "bdd-25",
+  "name": "shared",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0",
-    "redis": "^5.9.0",
-    "ws": "^8.18.3"
+    "redis": "^5.9.0"
   }
 }
